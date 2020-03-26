@@ -30,7 +30,7 @@ In this project, I worked on my season website using react. For the design I hav
 - Create-React-App
 - SCSS.
 
-### ✨ [Live Demo](https://emreaybey.com)
+### ✨ [Live Demo](https://safe-dawn-23768.herokuapp.com/)
 
 ## Usage
 
