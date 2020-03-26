@@ -17,11 +17,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
   <a href="https://github.com/yunusyerli1/seasons/blob/master/seasons/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/YemreAybey/portfolio-react/commit-activity" target="_blank">
+  <a href="https://github.com/yunusyerli1/seasons/blob/master/seasons" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://twitter.com/YunusAybey" target="_blank">
-    <img alt="Twitter: YunusAybey" src="https://img.shields.io/twitter/follow/YunusAybey.svg?style=social" />
+  <a href="https://twitter.com/cmk_y" target="_blank">
+    <img alt="Twitter: YunusAybey" src="https://img.shields.io/twitter/url?style=social" />
   </a>
 </p>
 <p>
