@@ -1,0 +1,42 @@
+.icon-left{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.icon-right{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.season-display.winter i{
+    color : blue;
+}
+.season-display.summer i{
+    color: red;
+}
+.season-display{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+.winter{
+    background-color: aliceblue;
+}
+.summer{
+    background-color: orange;
+}
+.attention {
+    position: absolute;
+    top : 300px;
+    left: 650px;
+    color : #800000;
+}
+.reminder{
+    position: absolute;
+    top: 430px;
+    left: 600px;
+    color : red;
+    font-size: 24px;
+    font-weight: 800;
+}
