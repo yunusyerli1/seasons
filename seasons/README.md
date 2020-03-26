@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 <h1 align="center">What is the Season Site </h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/yunusyerli1/seasons#readme" target="_blank">
+  <a href="https://github.com/yunusyerli1/seasons/blob/master/seasons/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/YemreAybey/portfolio-react/commit-activity" target="_blank">
