@@ -12,57 +12,84 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
+<h1 align="center">My Portfolio Site 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/YemreAybey/portfolio-react#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/YemreAybey/portfolio-react/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://twitter.com/YunusAybey" target="_blank">
+    <img alt="Twitter: YunusAybey" src="https://img.shields.io/twitter/follow/YunusAybey.svg?style=social" />
+  </a>
+</p>
+<p>
+  <a href="https://res.cloudinary.com/yemreaybey/image/upload/v1578570412/Portfolio/Screenshot_2020-01-09_14-44-50_irwfs7.png" target="_blank">
+    <img alt="My Portfolio" src="https://res.cloudinary.com/yemreaybey/image/upload/v1578570412/Portfolio/Screenshot_2020-01-09_14-44-50_irwfs7.png" />
+  </a>
+ </p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In this project, I worked on my portfolio web-site using react-redux. For the design I have used Charlie Waite's website design. You can see his web-site [here](http://charliewaite.me/)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Json Data
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+For the project details I am using a json file and making an async request to get the details. So in the future I can directly add a new project into my json file which will automatically be rendered.
 
-### `npm run eject`
+## Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- React
+- Redux
+- JavaScript (ES6)
+- Node.js
+- npm
+- Create-React-App
+- SCSS.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### ✨ [Live Demo](https://emreaybey.com)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Usage
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+> Clone the repository to your local machine
 
-## Learn More
+```sh
+$ git clone https://github.com/YemreAybey/portfolio-react.git
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+> cd into the directory, install dependencies, build and start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+$ cd basic-bookstore-redux
+$ npm install
+$ npm run build
+$ npm run start
+```
 
-### Code Splitting
+> Open `http://127.0.0.1:3000` using your favourite broswer, if it doesn't open automatically.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Authors
 
-### Analyzing the Bundle Size
+👤 **Y.Emre AYBEY**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Github: [@YemreAybey](https://github.com/YemreAybey)
+- Twitter: [@YunusAybey](https://twitter.com/YunusAybey)
 
-### Making a Progressive Web App
+## 🤝 Contributing
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/YemreAybey/portfolio-react/issues).
 
-### Advanced Configuration
+1. Fork it (https://github.com/YemreAybey/portfolio-react.git/fork)
+2. Create your working branch (git checkout -b [choose-a-name])
+3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
+4. Push to the branch (git push origin [chosen-name])
+5. Create a new Pull Request
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## Show your support
 
-### Deployment
+Give a ⭐️ if you like this project!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
