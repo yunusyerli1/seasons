@@ -21,7 +21,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://twitter.com/cmk_y" target="_blank">
-    <img alt="Twitter: YunusAybey" src="https://img.shields.io/twitter/url?style=social" />
+    <img alt="Twitter: cmk_y" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcmk_y" />
   </a>
 </p>
 <p>
