@@ -37,7 +37,7 @@ In this project, I worked on my season website using react. For the design I hav
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/YemreAybey/portfolio-react.git
+$ git clone https://github.com/Yunusyerli1/seasons.git
 ```
 
 > cd into the directory, install dependencies, build and start
