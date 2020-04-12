@@ -19,7 +19,7 @@
 <br>
 
 
-
+## Info
 In this project, I worked on my season website using react. For the design I have used Semantic UI's designs. You can see the web-site. (https://semantic-ui.com/) I m trying to get Geo location using Google Location Services API. If the location coordinates belongs to Northern Hemisphere, the website displays Northern Hemispehere climate (summer) as orange or blue (winter).
 
 
@@ -31,6 +31,7 @@ In this project, I worked on my season website using react. For the design I hav
 - Node.js
 - Npm
 - Create-React-App
+- Webpack
 
 
 ### ✨ [Live Demo](https://safe-dawn-23768.herokuapp.com/)
