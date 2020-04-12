@@ -10,6 +10,9 @@
   <a href="https://twitter.com/cmk_y" target="_blank">
     <img alt="Twitter: cmk_y" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcmk_y" />
   </a>
+  <a href="https://github.com/yunusyerli1/seasons" target="_blank">
+    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1586697216/Project/seasons_tlvnje.jpg" />
+  </a>
 </p>
 
 
@@ -17,7 +20,7 @@
 
 
 
-In this project, I worked on my season website using react. For the design I have used Semantic UI's designs. You can see the web-site. (https://semantic-ui.com/)
+In this project, I worked on my season website using react. For the design I have used Semantic UI's designs. You can see the web-site. (https://semantic-ui.com/) I m trying to get Geo location using Google Location Services API. If the location coordinates belongs to Northern Hemisphere, the website displays Northern Hemispehere climate (summer) as orange or blue (winter).
 
 
 
@@ -28,7 +31,7 @@ In this project, I worked on my season website using react. For the design I hav
 - Node.js
 - Npm
 - Create-React-App
-- SCSS.
+
 
 ### ✨ [Live Demo](https://safe-dawn-23768.herokuapp.com/)
 
