@@ -34,7 +34,7 @@ In this project, I worked on my season website using react. For the design I hav
 - Webpack
 
 
-### ✨ [Live Demo](https://safe-dawn-23768.herokuapp.com/)
+### ✨ [Live Demo](https://coronayerli.herokuapp.com/)
 
 ## Usage
 
